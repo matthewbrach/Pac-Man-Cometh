@@ -2,7 +2,7 @@
  Pac man runs into walls
 ![Wocka](gopacgo.png)
 
-This code is designed to work with the DOM (Document Object Model) to familiarize the coder to working with the programming interface. In the code the "walls" or document width, are detected and when Pacman hits the wall he reverses course. 
+This code is designed to work with the DOM (Document Object Model) to familiarize the coder to working with the programming interface. In the code the "walls" or document width, are detected and when Pacman hits the wall he reverses course. A great exercise in using checkPageBounds and setInterval. 
 
 At this time there are no suggestions for improvement, the code serves its function as an educational tool - allowing users to experience working in the DOM with little coding experience. 
 
