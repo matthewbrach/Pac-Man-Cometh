@@ -1,6 +1,6 @@
 # Pac Man Cometh
  Pac man runs into walls
-![Wocka](PacMan1.png)
+![Wocka](gopacgo.png)
 
 This code is designed to work with the DOM (Document Object Model) to familiarize the coder to working with the programming interface. In the code the "walls" or document width, are detected and when Pacman hits the wall he reverses course. 
 
